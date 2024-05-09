@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on Full stack Web-development<br>👯 I’m believe that making things fun is the best way to learn;<br>      so one would find game-based projects in my repositories<br>🤝 I’m eager to integrate my skills into something fun and useful!<br>🌱 I’m currently learning Graphic design<br>⚡ Fun fact: <br>      The generation of random numbers is too important <br>      to be left to chance.
+As a person who values the learning and delivery of atleast one new thing each day, I have worked on various projects that enhance my understanding of technologies (like Machine learning, and the full stack) and the much needed interpersonal skills.<br>
+I have worked in Pytorch for building Deep learning and Neural Network models, and in the MEAN stack to build apps on the web. I have also built and collaborated in games as part of fun development cycles :) <br>
+For me new technology is a tool. I am open to learning and incorporating any new tech that is relevant in delivering value to people through projects/products.
+
 
 
 ## 🌐 Socials:
