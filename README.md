@@ -1,7 +1,7 @@
-# 💫 About Me:
-As a person who values the learning and delivery of atleast one new thing each day, I have worked on various projects that enhance my understanding of technologies (like Machine learning, and the full stack) and the much needed interpersonal skills.<br>
-I have worked in Pytorch for building Deep learning and Neural Network models, and in the MEAN stack to build apps on the web. I have also built and collaborated in games as part of fun development cycles :) <br>
-For me new technology is a tool. I am open to learning and incorporating any new tech that is relevant in delivering value to people through projects/products.
+# About Me:
+As a person who values the learning and delivery of atleast one new thing each day, I have worked on various projects that enhance my understanding of technologies (like Machine learning, and the full stack) and the much needed interpersonal skills.<br><br>
+I have worked in Pytorch for building Deep learning and Neural Network models, and in the MEAN stack to build apps on the web. I have also built and collaborated in games as part of fun development cycles :) <br><br>
+For me new technology is a tool. I am open to learning and incorporating any new tech that is relevant in delivering value to people through projects/products.<br>
 
 
 
