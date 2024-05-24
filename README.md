@@ -3,7 +3,7 @@ As a person who values the learning and delivery of atleast one new thing each d
 I have worked in Pytorch for building Deep learning and Neural Network models, and in the MEAN stack to build apps on the web. I have also built and collaborated in games as part of fun development cycles :) <br><br>
 For me new technology is a tool. I am open to learning and incorporating any new tech that is relevant in delivering value to people through projects/products. In the process I adapt critical and creative thinking approaches to ensure optimised workflows and outcomes.<br><br>
 
-## My interests:
+## What I love working on:
 1. Programming (ofcourse!) 
 2. Music - Specifically Carnatic classical music
 3. Math
